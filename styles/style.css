@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.cow{
+    background-image: url('../img/cow.jpg');
+    background-size: cover;
+    background-position: bottom center;
+    height: 100vh;
+}
